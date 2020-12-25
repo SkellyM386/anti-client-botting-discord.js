@@ -2,10 +2,7 @@
 <h1>Anti Client/User Botting Discord.js</h1>
 <p>Pretty simple This is the Source code method for anti client/user Botting</p>
 <hr />
-<video width="500" controls>
-<source src="https://cdn.glitch.com/cdac0e92-9561-4ca6-82d5-b078797c76f9%2Fvideo.mp4?v=1608859783101">
-Your browser does not support the video tag.
-</video>
+<iframe href="https://www.youtube.com/embed/v8MUdMdpsKk"></iframe>
 <hr />
 <img alt="Bot Permissions: use all reactions, send messages and view channels" src="https://cdn.glitch.com/cdac0e92-9561-4ca6-82d5-b078797c76f9%2Fpermissions.png?v=1608849427694" />
 <hr />
