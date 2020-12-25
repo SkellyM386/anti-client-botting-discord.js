@@ -3,7 +3,7 @@
 <p>Pretty simple This is the Source code method for anti client/user Botting</p>
 <hr />
 <video width="auto" height="auto" controls>
-<source src="./video.mp4" type="video/mp4">
+<source src="video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <hr />
