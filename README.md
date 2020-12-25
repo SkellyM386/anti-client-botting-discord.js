@@ -8,6 +8,7 @@ https://www.youtube.com/embed/v8MUdMdpsKk</a>
 <hr />
 <img alt="Bot Permissions: use all reactions, send messages and view channels" src="https://cdn.glitch.com/cdac0e92-9561-4ca6-82d5-b078797c76f9%2Fpermissions.png?v=1608849427694" />
 <hr />
+Bot Used in Example use <i>.daily</i> to test it
 <a href="https://discord.com/api/oauth2/authorize?client_id=791786871393878047&permissions=265280&scope=bot" targer="_blank">Add Bot</a>
 <hr />
 <u><h3>License</h3></u>
