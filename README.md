@@ -2,8 +2,7 @@
 <h1>Anti Client/User Botting Discord.js</h1>
 <p>Pretty simple This is the Source code method for anti client/user Botting</p>
 <hr />
-<video width="auto" height="auto" controls>
-<source src="https://cdn.glitch.com/cdac0e92-9561-4ca6-82d5-b078797c76f9%2Fvideo.mp4?v=1608859783101" type="video/mp4">
+<video src="https://cdn.glitch.com/cdac0e92-9561-4ca6-82d5-b078797c76f9%2Fvideo.mp4?v=1608859783101" type="video/mp4" controls>
 Your browser does not support the video tag.
 </video>
 <hr />
